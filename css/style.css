@@ -8,6 +8,7 @@
 @import url("components/card.css");
 @import url("components/story-container.css");
 @import url("components/title.css");
+@import url("components/navbar.css");
 
 body {
 	font-family: 'Lora', serif;

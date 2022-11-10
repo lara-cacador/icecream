@@ -5,4 +5,9 @@
 	color: white;
 	font-weight: bold;
 	font-family: 'Poppins', sans-serif;
+	transition: 0.3s;
+}
+
+.btn-teal:hover {
+	background-color: #A0B4B6;
 }
